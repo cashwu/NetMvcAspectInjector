@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="testNewAspectInjector.MvcApplication" Language="C#" %>
